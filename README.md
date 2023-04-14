@@ -10,7 +10,7 @@ Explore US Bikeshare Data
 
 ### Description
 
-Describe what your project is about and what it does
+This project helps with analysis of bikeshare data
 
 ### Files used
 
