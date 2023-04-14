@@ -184,7 +184,7 @@ def user_count_stats(df):
     # Print the total numbers of user types
     for idx, user_count in enumerate(user_counts):
         print(" {}: {}".format(user_counts.index[idx], user_count))
-    print('-'*20)
+    print('-'*15)
 
 
 def gender_stats(df):
