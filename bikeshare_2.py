@@ -194,7 +194,7 @@ def gender_stats(df):
     # Print the total numbers of genders
     for idx, gender_count in enumerate(gender_counts):
         print(" {}: {}".format(gender_counts.index[idx], gender_count))
-    print('-'*20)
+    print('-'*15)
 
 
 def birth_year_stats(df):
