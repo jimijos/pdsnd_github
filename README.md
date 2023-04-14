@@ -6,7 +6,7 @@
 
 ### Project Title
 
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
 
