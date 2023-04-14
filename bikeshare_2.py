@@ -11,6 +11,7 @@ MONTHS = ['january', 'february', 'march', 'april', 'may', 'june']
 DAYS = ['sunday', 'monday', 'tuesday',
         'wednesday', 'thursday', 'friday', 'saturday']
 
+# city names as a list
 city_names = list(CITY_DATA.keys())
 
 
