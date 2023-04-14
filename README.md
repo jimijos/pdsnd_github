@@ -16,14 +16,6 @@ This project helps with analysis of bikeshare data
 
 Include the files used
 
-chicago.csv
-new_york_city.csv
-washington.csv
-bikeshare_2.py
-README.md
-.gitignore
-.github
-
 ### Credits
 
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
